@@ -1,0 +1,14 @@
+C:\Flowers\Sixth Flower\Lab6_2\bin\Debug\net6.0\Lab6_2.exe
+C:\Flowers\Sixth Flower\Lab6_2\bin\Debug\net6.0\Lab6_2.deps.json
+C:\Flowers\Sixth Flower\Lab6_2\bin\Debug\net6.0\Lab6_2.runtimeconfig.json
+C:\Flowers\Sixth Flower\Lab6_2\bin\Debug\net6.0\Lab6_2.dll
+C:\Flowers\Sixth Flower\Lab6_2\bin\Debug\net6.0\Lab6_2.pdb
+C:\Flowers\Sixth Flower\Lab6_2\obj\Debug\net6.0\Lab6_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Flowers\Sixth Flower\Lab6_2\obj\Debug\net6.0\Lab6_2.AssemblyInfoInputs.cache
+C:\Flowers\Sixth Flower\Lab6_2\obj\Debug\net6.0\Lab6_2.AssemblyInfo.cs
+C:\Flowers\Sixth Flower\Lab6_2\obj\Debug\net6.0\Lab6_2.csproj.CoreCompileInputs.cache
+C:\Flowers\Sixth Flower\Lab6_2\obj\Debug\net6.0\Lab6_2.dll
+C:\Flowers\Sixth Flower\Lab6_2\obj\Debug\net6.0\refint\Lab6_2.dll
+C:\Flowers\Sixth Flower\Lab6_2\obj\Debug\net6.0\Lab6_2.pdb
+C:\Flowers\Sixth Flower\Lab6_2\obj\Debug\net6.0\Lab6_2.genruntimeconfig.cache
+C:\Flowers\Sixth Flower\Lab6_2\obj\Debug\net6.0\ref\Lab6_2.dll
